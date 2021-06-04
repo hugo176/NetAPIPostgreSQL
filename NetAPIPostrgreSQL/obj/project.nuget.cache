@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2YlaHfU/0j6Ww2sBDB9yUIQxYJdm5SciUGpZtnvUrYrbiERG399J56Bz+zEFPc2K6LlCExQ/HJ/cCy+xarGedg==",
+  "dgSpecHash": "dfUqpTDgxNXEZJ82jCdSt8L3X8ghmeWdr2kcgVMLwvp2vILDe0chG/81l+5e1GqtrP/lZDvfsBWfVD0Z9GJUhw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hugof\\Source\\Repos\\NetAPIPostrgreSQL\\NetAPIPostrgreSQL\\NetAPIPostrgreSQL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hugof\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\hugof\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\hugof\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\hugof\\.nuget\\packages\\npgsql\\5.0.5\\npgsql.5.0.5.nupkg.sha512",

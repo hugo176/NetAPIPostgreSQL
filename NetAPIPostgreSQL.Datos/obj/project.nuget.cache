@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s4YArGoJ8t/vIh1nvGbKhtzJf2rv3DKsAzt+REaGYsJ1ghsWESoGkI376OA2W+1Gr8edxhvSPryDIemWghwQpA==",
+  "dgSpecHash": "qDnTgPoCRSZ25+j2wnO6qGnrSR3lIJ4WzIrH5MJMQYsvPRWTyGnmwDe+EdrSrITSnPVMad5Kf0St2rajPIbH7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\hugof\\Source\\Repos\\NetAPIPostrgreSQL\\NetAPIPostgreSQL.Datos\\NetAPIPostgreSQL.Datos.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hugof\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\hugof\\.nuget\\packages\\npgsql\\5.0.5\\npgsql.5.0.5.nupkg.sha512",
     "C:\\Users\\hugof\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],

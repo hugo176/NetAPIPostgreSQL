@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NetAPIPostgreSQL.Modelo/1.0.0": {
+        "runtime": {
+          "NetAPIPostgreSQL.Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetAPIPostgreSQL.Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\bin\Debug\net5.0\NetAPIPostgreSQL.Datos.deps.json
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\bin\Debug\net5.0\NetAPIPostgreSQL.Datos.dll
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\bin\Debug\net5.0\ref\NetAPIPostgreSQL.Datos.dll
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\bin\Debug\net5.0\NetAPIPostgreSQL.Datos.pdb
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\bin\Debug\net5.0\NetAPIPostgreSQL.Modelo.dll
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\bin\Debug\net5.0\NetAPIPostgreSQL.Modelo.pdb
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\obj\Debug\net5.0\NetAPIPostgreSQL.Datos.csproj.AssemblyReference.cache
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\obj\Debug\net5.0\NetAPIPostgreSQL.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\obj\Debug\net5.0\NetAPIPostgreSQL.Datos.AssemblyInfoInputs.cache
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\obj\Debug\net5.0\NetAPIPostgreSQL.Datos.AssemblyInfo.cs
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\obj\Debug\net5.0\NetAPIPostgreSQL.Datos.csproj.CoreCompileInputs.cache
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\obj\Debug\net5.0\NetAPIPostgreSQL.Datos.csproj.CopyComplete
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\obj\Debug\net5.0\NetAPIPostgreSQL.Datos.dll
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\obj\Debug\net5.0\ref\NetAPIPostgreSQL.Datos.dll
+C:\Users\hugof\Source\Repos\NetAPIPostrgreSQL\NetAPIPostgreSQL.Datos\obj\Debug\net5.0\NetAPIPostgreSQL.Datos.pdb

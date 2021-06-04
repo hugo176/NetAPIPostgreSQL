@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using NetAPIPostgreSQL.Datos;
+using NetAPIPostgreSQL.Datos.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,14 +29,17 @@ namespace NetAPIPostrgreSQL
         public void ConfigureServices(IServiceCollection services)
         {
 
+            var postgreSQLConnectionConfiguration = new PostgreSQLConfiguration(Configuration.GetConnectionString("PostgreSQLConnection"));
+            services.AddSingleton(postgreSQLConnectionConfiguration);
+
+            services.AddScoped<ICarRepository, CarRepository>();
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "NetAPIPostrgreSQL", Version = "v1" });
             });
 
-            var postgreSQLConnectionConfiguration = new PostgreSQLConfiguration(Configuration.GetConnectionString("PostgreSQLConnection"));
-            services.AddSingleton(postgreSQLConnectionConfiguration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

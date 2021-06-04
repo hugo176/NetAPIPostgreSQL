@@ -8,6 +8,7 @@ namespace NetAPIPostgreSQL.Modelo
 {
     public class Car
     {
+        public int Id { get; set; }
         public String Make { get; set; }
         public String Model { get; set; }
         public String Color { get; set; }
